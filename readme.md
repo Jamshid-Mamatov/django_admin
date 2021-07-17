@@ -5,3 +5,5 @@
 ### admin part
 - ![adminfile](photos/adminfile.jpg)
 - ![adminsite](photos/adminsite.jpg)
+### views part
+- ![post_view](photos/posts_out.jpg)
